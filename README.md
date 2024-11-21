@@ -1,12 +1,4 @@
 - 👋 Hi, I’m @PilarIbarra
 - 👀 I’m interested in anime,manga and videogames
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
-
-<!---
-PilarIbarra/PilarIbarra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning c++, c# and java
+- ⚡ Fun fact:Everyone shares their birthday with at least 9 million other people around the world. This is called the birthday paradox
